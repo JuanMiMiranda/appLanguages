@@ -20,5 +20,12 @@ class User {
                return false;
       }
     
+      
+      
+      function login2($link)
+      {
+          
+       
+      }
   
 }
